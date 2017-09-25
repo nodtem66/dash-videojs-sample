@@ -1,0 +1,14 @@
+{
+  "name": "video-sample",
+  "version": "0.0.1",
+  "description": "The experiment for VideoJS",
+  "main": "index.js",
+  "author": "Jirawat I.",
+  "license": "MIT",
+  "dependencies": {
+    "dashjs": "^2.6.0",
+    "video.js": "^6.2.7",
+    "videojs-contrib-dash": "^2.9.1",
+    "videojs-contrib-eme": "^2.0.1"
+  }
+}

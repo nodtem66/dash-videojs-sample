@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GPACDRM type="CENC AES-CTR">
+<DRMInfo type="pssh" version="1" cypherOffset="9" cypherKey="0x1077efecc0b24d02ace33c1e52e2fb4b" cypherIV="0x00000000000000000000000000000001">
+<BS ID128="1077efecc0b24d02ace33c1e52e2fb4b"/>
+<BS bits="32" value="2"/>
+<BS ID128="0x279926496a7f5d25da69f2b3b2799a7f"/>
+<BS ID128="0x676cb88f302d10227992649885984045"/>
+<BS ID128="0xccc0f2b3b279926496a7f5d25da692f6"/>
+<BS ID128="0xccc0f2b3b279926496a7f5d25da692d6"/>
+<BS bits="32" value="0"/>
+</DRMInfo>
+<CrypTrack trackID="1" IsEncrypted="1" IV_size="16" first_IV="0x0a610676cb88f302d10ac8bc66e039ed" saiSavedBox="senc">
+<key KID="0x279926496a7f5d25da69f2b3b2799a7f" value="0xccc0f2b3b279926496a7f5d25da692f6"/>
+<key KID="0x676cb88f302d10227992649885984045" value="0xccc0f2b3b279926496a7f5d25da692d6"/>
+</CrypTrack>
+</GPACDRM>
